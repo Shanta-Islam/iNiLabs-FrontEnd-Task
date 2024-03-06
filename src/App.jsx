@@ -1,3 +1,4 @@
+import ConnectSection from "./components/ConnectSection";
 import Feature from "./components/Feature";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
@@ -12,6 +13,7 @@ function App() {
     <TrustedSection/>
     <Feature/>
     <WorkTogether/>
+    <ConnectSection/>
     </>
   );
 }
