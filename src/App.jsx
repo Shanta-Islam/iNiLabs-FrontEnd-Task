@@ -2,6 +2,7 @@ import Brainstorming from "./components/Brainstorming";
 import ClientReviews from "./components/ClientReviews";
 import ConnectSection from "./components/ConnectSection";
 import Feature from "./components/Feature";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Prospects from "./components/Prospects";
@@ -22,6 +23,7 @@ function App() {
     <Brainstorming/>
     <Prospects/>
     <ClientReviews/>
+    <Footer/>
     </>
   );
 }
