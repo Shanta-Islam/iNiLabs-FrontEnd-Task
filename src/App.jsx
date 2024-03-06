@@ -1,3 +1,4 @@
+import Brainstorming from "./components/Brainstorming";
 import ConnectSection from "./components/ConnectSection";
 import Feature from "./components/Feature";
 import Header from "./components/Header";
@@ -16,6 +17,7 @@ function App() {
     <WorkTogether/>
     <ConnectSection/>
     <WaysWeWork/>
+    <Brainstorming/>
     </>
   );
 }
