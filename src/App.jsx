@@ -1,4 +1,5 @@
 import Brainstorming from "./components/Brainstorming";
+import ClientReviews from "./components/ClientReviews";
 import ConnectSection from "./components/ConnectSection";
 import Feature from "./components/Feature";
 import Header from "./components/Header";
@@ -20,6 +21,7 @@ function App() {
     <WaysWeWork/>
     <Brainstorming/>
     <Prospects/>
+    <ClientReviews/>
     </>
   );
 }
