@@ -2,7 +2,7 @@ import Brainstorm from "../assets/images/Brainstorm.png";
 import { MdArrowRightAlt } from "react-icons/md";
 const Brainstorming = () => {
   return (
-    <div className="flex flex-col mt-[60px] mx-auto justify-center items-center">
+    <div className="flex flex-col mt-[60px] mx-64 justify-center">
       <div>
         <h1 className="text-slate-900 text-5xl font-bold">
           Built for the way you work
