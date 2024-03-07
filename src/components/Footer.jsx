@@ -61,8 +61,8 @@ const Footer = () => {
         </div>
         <div className="relative flex items-center justify-center text-start w-[436px] h-[240px] bg-amber-300 rounded-3xl">
           <img src={certo} alt="Certo" className="absolute mx-32" />
-          <div className="relative flex flex-col items-center mt-8">
-            <h1 className="text-slate-900 text-2xl font-extrabold ml-[-60px]">
+          <div className="relative flex flex-col mt-8">
+            <h1 className="text-slate-900 text-2xl font-extrabold">
               Sign up to our newsletter
             </h1>
             <p className="text-slate-900 text-sm w-[358px] mt-4">
