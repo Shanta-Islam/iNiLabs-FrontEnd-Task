@@ -3,8 +3,8 @@ import { MdArrowRightAlt } from "react-icons/md";
 const Brainstorming = () => {
   return (
     <div className="flex flex-col mt-[60px] mx-auto justify-center items-center">
-      <div className="ml-[-70px]">
-        <h1 className="text-slate-900 text-5xl font-bold ml-[-12px]">
+      <div>
+        <h1 className="text-slate-900 text-5xl font-bold">
           Built for the way you work
         </h1>
         <div className="flex mt-9 text-sm gap-12 text-slate-900">
@@ -18,7 +18,7 @@ const Brainstorming = () => {
         </div>
       </div>
       <div className="flex gap-5 mt-7">
-        <div>
+        <div className="mt-5">
           <h1 className="text-lg text-slate-900">Brainstorming</h1>
           <p className="w-80 mt-[26px] text-slate-600">
             Unleash creative ideas and build on them with the help of sticky
