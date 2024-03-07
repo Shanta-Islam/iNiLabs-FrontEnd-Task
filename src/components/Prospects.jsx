@@ -8,9 +8,9 @@ import { SiAdobexd } from "react-icons/si";
 
 const Prospects = () => {
   return (
-    <div className="flex flex-col mt-[60px] justify-center items-center">
-      <div className="ml-[-140px]">
-        <h1 className="text-slate-900 text-5xl font-bold ml-[-20px]">
+    <div className="flex flex-col mt-[60px] justify-center mx-64">
+      <div>
+        <h1 className="text-slate-900 text-5xl font-bold">
           Built for all kinds of teams
         </h1>
         <div className="flex mt-9 text-sm gap-12 text-slate-900 ">
